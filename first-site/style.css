@@ -1,3 +1,7 @@
 .pp {
     color: red;
 }
+
+.blog {
+    border: 5px red dashed;
+}
